@@ -1,0 +1,8 @@
+blob/
+.DS_Store
+local/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
